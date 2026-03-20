@@ -23,3 +23,4 @@ st.dataframe(tipo_veiculo.head(100))
 
 st.title('Vítimas dos Acidentes')
 st.dataframe(vitimas_ro)
+
